@@ -1,0 +1,24 @@
+{
+  "name": "vue-automated-testing",
+  "version": "1.0.0",
+  "description": "\"# Vue-Automated-Testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengjinzhong/Vue-Automated-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengjinzhong/Vue-Automated-Testing/issues"
+  },
+  "homepage": "https://github.com/dengjinzhong/Vue-Automated-Testing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "jest": "^26.6.0"
+  }
+}
